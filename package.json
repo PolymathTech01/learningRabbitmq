@@ -1,0 +1,31 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "Learing RabbitMq",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolymathTech01/learingRabbitmq.git"
+  },
+  "keywords": [
+    "rabbitmq"
+  ],
+  "author": "Alli Olarinde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PolymathTech01/learingRabbitmq/issues"
+  },
+  "homepage": "https://github.com/PolymathTech01/learingRabbitmq#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
