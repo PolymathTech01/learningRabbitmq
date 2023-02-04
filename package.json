@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PolymathTech01/learingRabbitmq.git"
+    "url": "git+https://github.com/PolymathTech01/learningRabbitmq.git"
   },
   "keywords": [
     "rabbitmq"
@@ -19,9 +19,9 @@
   "author": "Alli Olarinde",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PolymathTech01/learingRabbitmq/issues"
+    "url": "https://github.com/PolymathTech01/learningRabbitmq/issues"
   },
-  "homepage": "https://github.com/PolymathTech01/learingRabbitmq#readme",
+  "homepage": "https://github.com/PolymathTech01/learningRabbitmq#readme",
   "dependencies": {
     "amqplib": "^0.10.3"
   },
